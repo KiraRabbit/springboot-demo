@@ -1,4 +1,4 @@
-/*package com.smanyaa.springbootdemo.controller;
+package com.smanyaa.springbootdemo.controller;/*package com.smanyaa.springbootdemo.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

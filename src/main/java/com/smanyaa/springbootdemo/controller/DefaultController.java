@@ -1,3 +1,4 @@
+/*
 package com.smanyaa.springbootdemo.controller;
 
 import org.springframework.context.annotation.Configuration;
@@ -14,3 +15,4 @@ public class DefaultController extends WebMvcConfigurerAdapter {
         super.addViewControllers( registry );
     }
 }
+*/
